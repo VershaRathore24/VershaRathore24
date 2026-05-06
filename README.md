@@ -19,6 +19,15 @@ I’m a Computer Science student passionate about backend development and buildi
 - 🗄️ Exploring PostgreSQL & Redis
 - 🚀 Interested in APIs & Microservices
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VershaRathore24&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VershaRathore24&theme=radical" />
+</p>
 ---
 
 ## 🛠️ Tech Stack
@@ -27,6 +36,10 @@ I’m a Computer Science student passionate about backend development and buildi
 - Java
 - Python
 - SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,git,github,postman" />
+</p>
 
 ### Backend
 - Spring Boot
