@@ -1,6 +1,12 @@
-# Hi 👋, I'm Versha Rathore
+<h1 align="center">Hi 👋, I'm Versha Rathore</h1>
 
-### 🚀 Java & Backend Development Enthusiast
+<p align="center">
+  🚀 Java & Backend Developer | Spring Boot | Redis
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Enthusiast;Backend+Learner;Always+Learning+New+Things" />
+</p>
 
 I’m a Computer Science student passionate about backend development and building real-world projects using Spring Boot.
 
