@@ -1,4 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Versha Rathore
+
+### 🚀 Java & Backend Development Enthusiast
+
+I’m a Computer Science student passionate about backend development and building real-world projects using Spring Boot.
+
+---
+
+## 🌟 About Me
+- 🎓 Computer Science Student
+- 💻 Learning Backend Development
+- ☕ Java & Spring Boot Enthusiast
+- 🗄️ Exploring PostgreSQL & Redis
+- 🚀 Interested in APIs & Microservices
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- SQL
+
+### Backend
+- Spring Boot
+- REST APIs
+- JPA / Hibernate
+
+### Database
+- PostgreSQL
+- Redis
+
+### Tools
+- GitHub
+- Postman
+- Docker
+
+---
+
+## 📌 Featured Project
+
+### Backend Engineering Assignment
+- Built using Spring Boot
+- Created REST APIs (Posts, Comments, Likes)
+- Implemented Redis virality score logic
+- Added bot interaction limits & cooldown
+- Integrated PostgreSQL database
+- Used scheduler for notifications
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/VershaRathore24
+- Email: versharathore1424@gmail.com
+
+---
+
+⭐ Keep learning & building!
 
 <!--
 **VershaRathore24/VershaRathore24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
