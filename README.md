@@ -21,8 +21,15 @@ I’m a Computer Science student passionate about backend development and buildi
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VershaRathore24&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VershaRathore24&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VershaRathore24&theme=tokyonight" />
+</p>
 </p>
 
 <p align="center">
